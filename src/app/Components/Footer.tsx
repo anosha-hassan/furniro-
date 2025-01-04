@@ -16,7 +16,7 @@ export default function Footer() {
           <div className="md:col-span-2">
             <h3 className="text-sm font-medium mb-4">Links</h3>
             <nav className="flex flex-col gap-4">
-              <a href="/" className="text-sm text-gray-600 hover:text-gray-900">Home</a>
+              <a href="/home" className="text-sm text-gray-600 hover:text-gray-900">Home</a>
               <a href="/shop" className="text-sm text-gray-600 hover:text-gray-900">Shop</a>
               <a href="/about" className="text-sm text-gray-600 hover:text-gray-900">About</a>
               <a href="/contact" className="text-sm text-gray-600 hover:text-gray-900">Contact</a>
